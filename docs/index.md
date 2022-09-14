@@ -1,5 +1,9 @@
 
-Here are some links to data analysis projects I have completed
+Here are some links to data analysis projects I have completed. 
+
+They range from explainers, to data replication projects of known investigative series.
+
+All work has been completed using R and the Tidyverse! 
 
 
 
